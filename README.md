@@ -24,9 +24,9 @@ The dataset contains 1,470 employee records and 39 columns covering employee dem
 - **Active Employees:** Calculates employee count minus attrition count.
 
 ## Files Included
-- `HR Dashboard.twb` — Tableau workbook
-- `HR Data.xlsx` — Source dataset
-- `HR Analytics Dashboard.png` — Dashboard preview
+- `HR-Dashboard.twb` — Tableau workbook
+- `HR-Data.xlsx` — Source dataset
+- `HR-Analytics-Dashboard.png` — Dashboard preview
 
 ## How to Use
 1. Download the workbook and Excel dataset.
