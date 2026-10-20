@@ -32,7 +32,7 @@ The dataset contains 1,470 employee records and 39 columns covering employee dem
 1. Download the workbook and Excel dataset.
 2. Open the workbook using Tableau Desktop.
 3. If Tableau reports a missing data source, reconnect it to `HR-Data.xlsx`.
-4. Open the **HR Analytics Dashboard** to explore the visualisations.
+4. Open the HR-Analytics-Dashboard to explore the visualisations.
 
 ## Objective
 To use interactive data visualisation to identify employee attrition patterns and support data-informed HR decisions.
